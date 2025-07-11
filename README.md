@@ -1,6 +1,6 @@
 # 🍨 HeladoBot (demo con LLaMA 3 + Panel)
 
-Pode visitar mi Sapaces en Hugging  Face para probar Helado Bot: 
+Pode visitar mi Spaces en Hugging  Face para probar Helado Bot: 
 
 https://huggingface.co/spaces/MauriRosty/HeladoBot
 
